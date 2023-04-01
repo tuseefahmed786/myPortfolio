@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/myPortfolio/static/css/main.cee5c324.css",
-    "main.js": "/myPortfolio/static/js/main.11e52c70.js",
+    "main.css": "/myPortfolio/static/css/main.3bf699d4.css",
+    "main.js": "/myPortfolio/static/js/main.0b7cf8bc.js",
     "static/js/787.28cb0dcd.chunk.js": "/myPortfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Recording 2023-03-23 174234.mp4": "/myPortfolio/static/media/Recording 2023-03-23 174234.aba9207aac4c9a7599fb.mp4",
+    "static/media/Walmart.com _ Save Money. Live Better - Google Chrome 2023-02-17 16-25-05.mp4": "/myPortfolio/static/media/Walmart.com _ Save Money. Live Better - Google Chrome 2023-02-17 16-25-05.7002277a7a75fc0cc57d.mp4",
     "static/media/2517915.jpg": "/myPortfolio/static/media/2517915.51dd21a496f7df3f9150.jpg",
-    "static/media/download.jpg": "/myPortfolio/static/media/download.e10bd32dbf66f3732009.jpg",
     "static/media/hero-devices.svg": "/myPortfolio/static/media/hero-devices.ca82e97c349a897082b6268dd7f8d733.svg",
     "static/media/eurostile.woff": "/myPortfolio/static/media/eurostile.141793f96cd8399f4b8c.woff",
     "static/media/EuroStyle Normal.woff": "/myPortfolio/static/media/EuroStyle Normal.1f243024b9649e5b9d64.woff",
     "static/media/mf-avatar.svg": "/myPortfolio/static/media/mf-avatar.7b735e86b418292c156bc9a26437d951.svg",
     "index.html": "/myPortfolio/index.html",
-    "main.cee5c324.css.map": "/myPortfolio/static/css/main.cee5c324.css.map",
-    "main.11e52c70.js.map": "/myPortfolio/static/js/main.11e52c70.js.map",
+    "main.3bf699d4.css.map": "/myPortfolio/static/css/main.3bf699d4.css.map",
+    "main.0b7cf8bc.js.map": "/myPortfolio/static/js/main.0b7cf8bc.js.map",
     "787.28cb0dcd.chunk.js.map": "/myPortfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cee5c324.css",
-    "static/js/main.11e52c70.js"
+    "static/css/main.3bf699d4.css",
+    "static/js/main.0b7cf8bc.js"
   ]
 }
